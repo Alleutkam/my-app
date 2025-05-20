@@ -40,5 +40,5 @@ docker run -it --name my-app-container --network my-app-network-otus -v todo_dat
 
 ## Контакты
 
-- Email: ezibrov@yandex.ru
+- Email: alleut@rambler.ru
 - Telegram: @alleut
